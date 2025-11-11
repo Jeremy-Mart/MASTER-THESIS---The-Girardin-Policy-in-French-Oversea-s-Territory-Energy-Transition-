@@ -1,0 +1,2 @@
+# MASTER-THESIS---The-Girardin-Policy-in-French-Oversea-s-Territory-Energy-Transition-
+This thesis examines the role of the Girardin industriel tax incentive in financing the energy transition in French Overseas Territory. It analyzes how this fiscal mechanism has supported renewable energy investments within the island’s unique insular context, marked by high costs, grid constraints, and ambitious decarbonization targets.
